@@ -1,0 +1,10 @@
+hotel
+stay
+staff
+dining
+food
+pool
+price
+location
+room
+bathroom
